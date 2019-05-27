@@ -32,7 +32,7 @@ public class GobangPanel extends JPanel {
 		frame.setResizable(false);
 		frame.setLocationRelativeTo(null);
 		// frame.setLayout(new BorderLayout());//JFrame默认的布局方式就是边框布局
-
+		// computer2 
 		// 棋盘面板
 		//,,,
 		this.setBackground(Color.LIGHT_GRAY);
