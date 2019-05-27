@@ -1,5 +1,3 @@
-package gobang2;
-
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
@@ -24,6 +22,9 @@ public class GobangPanel extends JPanel {
 
 	public void initUI() {
 		//hello world
+		//hello world2
+		//
+		//
 		JFrame frame = new JFrame("五子棋");
 		frame.setSize(700, 570);
 		frame.setDefaultCloseOperation(3);
@@ -32,6 +33,7 @@ public class GobangPanel extends JPanel {
 		// frame.setLayout(new BorderLayout());//JFrame默认的布局方式就是边框布局
 
 		// 棋盘面板
+		//,,,
 		this.setBackground(Color.LIGHT_GRAY);
 		frame.add(this, BorderLayout.CENTER);
 
