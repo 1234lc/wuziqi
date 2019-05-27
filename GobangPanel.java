@@ -1,4 +1,4 @@
-import java.awt.BorderLayout;
+﻿import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -25,6 +25,7 @@ public class GobangPanel extends JPanel {
 		//hello world2
 		//
 		//
+		//computer1
 		JFrame frame = new JFrame("五子棋");
 		frame.setSize(700, 570);
 		frame.setDefaultCloseOperation(3);
