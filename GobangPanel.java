@@ -23,6 +23,7 @@ public class GobangPanel extends JPanel {
 	}
 
 	public void initUI() {
+		//hello world
 		JFrame frame = new JFrame("五子棋");
 		frame.setSize(700, 570);
 		frame.setDefaultCloseOperation(3);
